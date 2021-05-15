@@ -1,4 +1,4 @@
-#Algumas informações sobre Python Quando comecei a estudar python não sabia para que cada coisa servia.
+# Algumas informações sobre Python Quando comecei a estudar python não sabia para que cada coisa servia.
 
 Ainda não sei tudos os comandos e funções, mas quero descobrir então quando descobrir uma função, código novo estarei atualizando e descrevendo linha a linha.
 
